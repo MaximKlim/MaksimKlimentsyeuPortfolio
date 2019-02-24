@@ -4,7 +4,8 @@ LEAD SOFTWARE TESTING ENGINEER in EPAM Vitebsk
  + [Summary](#1) 
  + [Skills and Awards](#2) 
  + [Education](#3) 
- + [Interests](#3) 
+ + [Interests](#4) 
+ + [Private repositories with training tasks](#5)
  
  
  
@@ -67,4 +68,29 @@ Dreaming to find time to read smth fiction, play music, devote more time to fami
 
 [Up](#contents)
 
+## <a name="5"></a>Private repositories with training tasks
 
+https://github.com/MaximKlim/FancyCalc
+
+https://github.com/MaximKlim/PadawansTask1
+
+https://github.com/MaximKlim/PadawansTask2
+
+https://github.com/MaximKlim/PadawansTask3
+
+https://github.com/MaximKlim/PadawansTask4
+
+https://github.com/MaximKlim/PadawansTask5
+
+https://github.com/MaximKlim/PadawansTask6
+
+https://github.com/MaximKlim/PadawansTask7
+
+https://github.com/MaximKlim/PadawansTask8
+
+https://github.com/MaximKlim/PadawansTask9
+
+https://github.com/MaximKlim/PadawansTask10
+
+
+[Up](#contents)
