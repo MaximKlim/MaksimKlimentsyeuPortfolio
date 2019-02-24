@@ -61,7 +61,7 @@ Looking for
 [Up](#contents)
 
 ## <a name="4"></a>Interests
-Listening to music, watching films, follow world football, like family time and romantic
+Listening to music, watching films, following world football, enjoing family time and romantic
 
 Dreaming to find time to read smth fiction, play music, devote more time to family
 
