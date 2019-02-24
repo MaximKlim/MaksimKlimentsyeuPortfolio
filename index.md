@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# MAKSIM KLIMENTSYEU 
+LEAD SOFTWARE TESTING ENGINEER in EPAM Vitebsk
 
-You can use the [editor on GitHub](https://github.com/MaximKlim/MaksimKlimentsyeuPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ + [Summary](#1) 
+ + [Skills and Awards](#2) 
+ + [Education](#3) 
+ + [Interests](#3) 
+ 
+ 
+ 
+## <a name="1"></a>Summary
+Experienced in 
+•	  functional and non-functional testing;
+•	  requirements analysis;
+•	  providing estimates (by test cases, story points), including estimations for whole QA team;
+•	  test documentation creation;
+•   providing test result documentation, QA metrics;
+•	  risk analysis and providing improvements;
+•	  working in Agile (Scrum, Scrumban);
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- A leader, responsible and reliable person coordinating QA team and looking forward to improving the process;
+- Strong interpersonal skills,  effective communicator within development team and with Customer;
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## <a name="2"></a>Skills and Awards
+•	  Agile: Software Development Methodologies: SCRUM, SCRUMBAN;
+•	  Business Analysis: Techniques: Estimation, Risk Analysis, Root Cause Analysis, Requirements Analysis: Requirements Validation Verification
+•	  General: Business correspondence, Conflict solving, Negotiations;
+•	  Miscellaneous Software Engineering Tools and Methods: Operating Systems: MS Windows;
+•	  Office Management: Phone conversation etiquette;
+•	  Software Engineering Management: Project Management/Defect Tracking Systems: Microsoft TFS; Microsoft VSTS;
+•	  Spoken Languages: Russian (Native); English (B2/B2+)
+•	  Testing: Test Types: Compatibility Testing, Exploratory testing, Functional testing, GUI Testing, Installation Testing;
+•	  Testing: Test Levels: Component / Integration Testing, System Testing.
+### EPAM Automated testing Mentoring Program
+completed in 2018
+• Have strong understanding what Automation is (principles, when it's applicable) • able to evaluate profit from automation (ROI) • Have an understanding what approaches, tools are used for automation on the project • Run autotests on the specific environment, able to analyze results by logs from runs • Learnt C# basic and performed preselection tasks to be accepted to ATM program • Learnt automation within the ATM program: Theoretical aspects and practical experience of Continuous integration with Jenkins, Git; Theory and practical tasks for Unit testing frameworks, Selenium WebDriver and locators, Design Patterns, TA Automation Layers, BDD, Web-services testing, etc
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## <a name="3"></a>Education
+- Name of the Education Establishment: Vitebsk State Technological University
+- Faculty/College: Economics
+- Degree (diploma): Specialist
+- Specialty: Economist/Commercial activity
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## <a name="4"></a>Interests
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaximKlim/MaksimKlimentsyeuPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
