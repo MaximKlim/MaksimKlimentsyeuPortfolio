@@ -92,5 +92,9 @@ https://github.com/MaximKlim/PadawansTask9
 
 https://github.com/MaximKlim/PadawansTask10
 
+https://github.com/MaximKlim/PadawansTask11
+
+https://github.com/MaximKlim/PadawansTask12
+
 
 [Up](#contents)
