@@ -12,13 +12,13 @@ LEAD SOFTWARE TESTING ENGINEER in EPAM Vitebsk
 ## <a name="1"></a>Summary
 Experienced in 
 
-•	  functional and non-functional testing;
-•	  requirements analysis;
-•	  providing estimates (by test cases, story points), including estimations for whole QA team;
-•	  test documentation creation;
-•   providing test result documentation, QA metrics;
-•	  risk analysis and providing improvements;
-•	  working in Agile (Scrum, Scrumban);
+<br>•	  functional and non-functional testing;
+<br>•	  requirements analysis;
+<br>•	  providing estimates (by test cases, story points), including estimations for whole QA team;
+<br>•	  test documentation creation;
+<br>•   providing test result documentation, QA metrics;
+<br>•	  risk analysis and providing improvements;
+<br>•	  working in Agile (Scrum, Scrumban);
 
 - A leader, responsible and reliable person coordinating QA team and looking forward to improving the process;
 - Strong interpersonal skills,  effective communicator within development team and with Customer;
@@ -99,5 +99,7 @@ https://github.com/MaximKlim/PadawansTask12
 https://github.com/MaximKlim/PadawansTask13
 
 https://github.com/MaximKlim/PadawansTask15
+
+https://github.com/MaximKlim/BasicCollectionsChallenge
 
 [Up](#contents)
