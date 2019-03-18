@@ -102,4 +102,6 @@ https://github.com/MaximKlim/PadawansTask15
 
 https://github.com/MaximKlim/BasicCollectionsChallenge
 
+https://www.codewars.com/users/MaximKlim/
+
 [Up](#contents)
