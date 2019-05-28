@@ -104,4 +104,6 @@ https://github.com/MaximKlim/BasicCollectionsChallenge
 
 https://www.codewars.com/users/MaximKlim/
 
+https://github.com/MaximKlim/Tic-Tac-Toe-Game
+
 [Up](#contents)
